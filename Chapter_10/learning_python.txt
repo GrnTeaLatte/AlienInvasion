@@ -1,0 +1,4 @@
+ In Python you can write programs that allow you to automate tasks.
+ In Python you can write loops.
+ In Python you can write while and if statements.
+ In Python you can make lists and iterate over them.
